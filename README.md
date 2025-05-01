@@ -1,16 +1,40 @@
-# task
+Name of the App: Tree Info App - Electronic journal 
 
-A new Flutter project.
+From nature notes to memorable poems, Tree Info App lets you capture everything you behold effortlessly. It comes with an elegant design that is easy to use and utilizes Flutter, as a framework. It is not only simple but also lightweight.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+Other Features:
 
-A few resources to get you started if this is your first Flutter project:
+-  **Write & Save Note**: Enter the title and corresponding text. Immediatelly, when you save it, it will be displayed in an eye-pleasing manner.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-  **Nature Inspired UI**: On top of soothing sounds and vibes, you are also greeted with images of trees and even trees season.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-  **Favorite Button**: Easily tap the heart icon and any post will be marked as a post of your choice. 
+
+- **Share (Coming Soon)**: This functionality was developed for ease sharing however unfortuntely at this point it is under construction. 
+
+-  **Profile Page**: The new profile page can be accessed by new users from the top bar.
+
+-  **Floating Action Button**: You can also access the input screen with new entries through the button seamlessly.
+
+---
+
+###  Built With:
+
+- Flutter and Dart  
+
+- Implemented clean architecture and both Stateless and Stateful widgets  
+
+- Modular coding for ease of expansion  
+
+---
+
+### Why I Made This:
+
+This was a simple experiment learning Dart and Flutter but quickly became a place to relax and record my thoughts and ideas. It's not just about trees—it is about taking the time to appreciate the small things.  
+
+https://github.com/user-attachments/assets/68ba10f4-e01c-4392-a1c0-418c842649d7
+
+
+
