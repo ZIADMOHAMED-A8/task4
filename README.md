@@ -34,7 +34,9 @@ Other Features:
 
 This was a simple experiment learning Dart and Flutter but quickly became a place to relax and record my thoughts and ideas. It's not just about trees—it is about taking the time to appreciate the small things.  
 
-https://github.com/user-attachments/assets/68ba10f4-e01c-4392-a1c0-418c842649d7
+
+
+https://github.com/user-attachments/assets/71206660-540d-416a-b6df-13536e979b71
 
 
 
